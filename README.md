@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krunoslav Jakusic
+# 👋 Hi, I'm Krunoslav Jakušić
 
 I'm a **Front-End Developer in progress**, passionate about learning modern web technologies and improving my coding skills every day.  
 I enjoy working with **TypeScript**, **HTML**, **CSS**, and **JavaScript**, and I’m currently expanding my knowledge with more complex front-end projects on my local machine.

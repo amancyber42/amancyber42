@@ -20,7 +20,7 @@ I’ll be uploading more complete front-end projects soon — including apps I�
 
 - Getting better with **TypeScript** and UI design  
 - Building clean and responsive web applications  
-- Learning how to organize and share code more effectively  
+- Creating more code in Java
 
 ---
 

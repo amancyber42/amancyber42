@@ -1,26 +1,36 @@
 # 👋 Hi, I'm Krunoslav Jakušić
 
-I'm a **Front-End Developer in progress**, passionate about learning modern web technologies and improving my coding skills every day.  
-I enjoy working with **TypeScript**, **HTML**, **CSS**, **JavaScript**, **Python** and **Java** and I’m currently expanding my knowledge with more complex front-end projects on my local machine.
+Developer | Java Expert | Front-End Enthusiast
+
+Welcome to my GitHub profile! I am a developer focused on building robust and scalable solutions, with a special emphasis on the Java ecosystem and modern web technologies. 
+I am currently dedicated to perfecting the backend architecture and developing clean, sustainable code.
 
 ---
 
-## 🧩 What You’ll Find Here
+## 🛠 Technological Stack
 
-On my GitHub you can find:
-- Simple front-end projects and coding experiments  
-- Some **C++** and **Python** projects I made while learning programming  
-- Personal code snippets and tests I use to explore new ideas  
-
-I’ll be uploading more complete front-end projects soon — including apps I’ve built with TypeScript and React.
+Category,Technology
+Primary languages,"Java (Core, Spring Boot), TypeScript, JavaScript"
+Backend,"Java EE, Maven, REST APIs"
+Front-End,"React, HTML5, CSS3 (Sass/Tailwind)"
+Other languages,"Python, C++"
+Tools,"Git, Docker, IntelliJ IDEA, VS Code, ApacheNetBeans"
 
 ---
 
-## 💡 My Focus Right Now
+## 📂 What am I working on?
 
-- Getting better with **TypeScript** and UI design  
-- Building clean and responsive web applications  
-- Creating more code in Java
+- ☕ Java Core & Backend: I develop complex systems using Java,
+     focusing on object-oriented programming (OOP) and algorithms. 
+- ⚛️ Modern Web: I create responsive UI components using TypeScript and React.  
+- ⚙️ Architecture: I research best practices for database design and front-end connectivity.
+
+---
+
+🎯 Goals and Vision
+My goal is to become an expert in enterprise application development. 
+Each project on this profile reflects my dedication to detail, clean code, 
+and continuous learning. I am open to collaborating on projects that challenge my technical boundaries.
 
 ---
 
